@@ -30,7 +30,7 @@ I am a security-aware application and systems professional focused on designing,
 
 ### 🎓 Education & Academic Honors
 **B.S. in Information Technology (Concentration in Cybersecurity)** 
-* **4.0 GPA** | President's Academic Excellence Award (Multiple) AIU, Schaumburg, IL 
+* **4.0 GPA** | President's Academic Excellence Award (Multiple) | AIU, Schaumburg, IL 
 
 ---
 
