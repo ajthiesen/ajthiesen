@@ -17,9 +17,13 @@ I am a security-aware application and systems professional focused on designing,
 
 ### 📈 Career Impact Highlights
 **Infrastructure Reliability:** Reduced server outages by **79%** through the redesign of alerting logic and escalation paths for a regulated healthcare fleet.
+
 **ML Innovation:** Deployed an Azure ML pipeline that achieved a **12% accuracy improvement** in predicting perinatal mortality risks.
+
 **Data Efficiency:** Integrated Azure Cognitive Services to automate data normalization, slashing preparation time by **30%**.
+
 **SaaS Implementation:** Led end-to-end implementations for **50+ enterprise clients**, reducing cycle times by **20%**.
+
 **Operational Excellence:** Improved system reliability by **40%** and reduced support ticket volume by **35%** through IT best practices and automation.
 
 ---
