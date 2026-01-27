@@ -8,9 +8,9 @@ I am a security-aware application and systems professional focused on designing,
 ### 🛠️ Technical Powerhouse
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Infrastructure** | Windows & Linux Server Management (900+ nodes), SolarWinds, System Integration [cite: 6, 9, 10] |
-| **Data & AI** | Azure Machine Learning, Azure Cognitive Services, Predictive Modeling [cite: 14, 15] |
-| **Cybersecurity** | Security-Aware Design, Compliance, Incident & Change Management [cite: 6, 19, 25] |
+| **Infrastructure** | Windows & Linux Server Management (900+ nodes), SolarWinds, System Integration |
+| **Data & AI** | Azure Machine Learning, Azure Cognitive Services, Predictive Modeling |
+| **Cybersecurity** | Security-Aware Design, Compliance, Incident & Change Management |
 | **Enterprise** | SaaS Implementation ($1M+ ARR), Workflow Optimization, Cross-functional Leadership 
 
 ---
