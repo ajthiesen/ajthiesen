@@ -36,7 +36,7 @@ I am a security-aware application and systems professional focused on designing,
 
 ### 📬 Let's Connect
 **Location:** Naples, FL
-**Email:** [aj@ajthiesen.com](mailto:aj@ajthiesen.com) 
+**Email:** [uproars.marsh1w@icloud.comm](mailto:uproars.marsh1w@icloud.com) 
 * **LinkedIn:** [https://www.linkedin.com/in/ajthiesen/](LinkedIn)
 * **Portfolio:** [https://ajthiesen.com/Welcome](Website/Portfolio)
 
