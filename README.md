@@ -38,7 +38,7 @@ I am a security-aware application and systems professional focused on designing,
 **Location:** Naples, FL
 **Email:** [aj@ajthiesen.com](mailto:aj@ajthiesen.com) 
 * **LinkedIn:** [https://www.linkedin.com/in/ajthiesen/](LinkedIn)
-* **Portfolio:** [https://ajthiesen.com/Welcome]
+* **Portfolio:** [https://ajthiesen.com/Welcome](Website/Portfolio)
 
 ---
 *"Seeking to design and optimize scalable enterprise solutions while advancing into cloud and security architecture roles."* 
